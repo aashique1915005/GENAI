@@ -1,0 +1,2541 @@
+Title: Skip to main content
+Link: #main-content
+--------------------------------------------------
+Title: Skip to footer
+Link: #main-footer
+--------------------------------------------------
+Title: Click here or press enter to go to homepage
+Link: https://www.tcs.com
+--------------------------------------------------
+Title: Contact us
+Link: https://www.tcs.com/contact-us/whats-on-your-mind
+--------------------------------------------------
+Title: TCS Worldwide
+Link: https://www.tcs.com/who-we-are/worldwide
+--------------------------------------------------
+Title: tata.com logoOpen in New Tab
+Link: https://www.tata.com/
+--------------------------------------------------
+Title: OverviewPress tab for submenu items
+Link: #
+--------------------------------------------------
+Title: Discover all solutions
+Link: https://www.tcs.com/what-we-do
+--------------------------------------------------
+Title: Industries
+Link: https://www.tcs.com/what-we-do.html#industries
+--------------------------------------------------
+Title: Banking
+Link: https://www.tcs.com/what-we-do/industries/banking
+--------------------------------------------------
+Title: Capital Markets
+Link: https://www.tcs.com/what-we-do/industries/capital-markets
+--------------------------------------------------
+Title: Consumer Packaged Goods and Distribution
+Link: https://www.tcs.com/what-we-do/industries/consumer-goods-distribution
+--------------------------------------------------
+Title: Communications, Media, and Information Services
+Link: https://www.tcs.com/what-we-do/industries/communications-media-information-services
+--------------------------------------------------
+Title: Education
+Link: https://www.tcs.com/what-we-do/industries/education
+--------------------------------------------------
+Title: Energy, Resources, and Utilities
+Link: https://www.tcs.com/what-we-do/industries/energy-resources-utilities
+--------------------------------------------------
+Title: Healthcare
+Link: https://www.tcs.com/what-we-do/industries/healthcare
+--------------------------------------------------
+Title: High Tech
+Link: https://www.tcs.com/what-we-do/industries/high-tech
+--------------------------------------------------
+Title: Insurance
+Link: https://www.tcs.com/what-we-do/industries/insurance
+--------------------------------------------------
+Title: Life Sciences
+Link: https://www.tcs.com/what-we-do/industries/life-sciences
+--------------------------------------------------
+Title: Manufacturing
+Link: https://www.tcs.com/what-we-do/industries/manufacturing
+--------------------------------------------------
+Title: Public Services
+Link: https://www.tcs.com/what-we-do/industries/public-services
+--------------------------------------------------
+Title: Retail
+Link: https://www.tcs.com/what-we-do/industries/retail
+--------------------------------------------------
+Title: Travel and Logistics
+Link: https://www.tcs.com/what-we-do/industries/travel-and-logistics
+--------------------------------------------------
+Title: Services
+Link: https://www.tcs.com/what-we-do.html#services
+--------------------------------------------------
+Title: Artificial Intelligence
+Link: https://www.tcs.com/what-we-do/services/artificial-intelligence
+--------------------------------------------------
+Title: Cloud
+Link: https://www.tcs.com/what-we-do/services/cloud
+--------------------------------------------------
+Title: Cognitive Business Operations
+Link: https://www.tcs.com/what-we-do/services/cognitive-business-operations
+--------------------------------------------------
+Title: Consulting
+Link: https://www.tcs.com/what-we-do/services/consulting
+--------------------------------------------------
+Title: Cybersecurity
+Link: https://www.tcs.com/what-we-do/services/cybersecurity
+--------------------------------------------------
+Title: Data and Analytics
+Link: https://www.tcs.com/what-we-do/services/data-and-analytics
+--------------------------------------------------
+Title: Enterprise Solutions
+Link: https://www.tcs.com/what-we-do/services/enterprise-solutions
+--------------------------------------------------
+Title: IoT and Digital Engineering
+Link: https://www.tcs.com/what-we-do/services/iot-digital-engineering
+--------------------------------------------------
+Title: Network Solutions and Services
+Link: https://www.tcs.com/what-we-do/services/network-solutions-and-services
+--------------------------------------------------
+Title: TCS Interactive
+Link: https://www.tcs.com/what-we-do/services/tcs-interactive
+--------------------------------------------------
+Title: Sustainability Services
+Link: https://www.tcs.com/what-we-do/services/sustainability-services
+--------------------------------------------------
+Title: Products and Platforms
+Link: https://www.tcs.com/what-we-do.html#products
+--------------------------------------------------
+Title: TCS ADD™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-add
+--------------------------------------------------
+Title: TCS BANCS™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-bancs
+--------------------------------------------------
+Title: TCS BFSI Platforms
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-bfsi-platforms
+--------------------------------------------------
+Title: TCS CHROMA™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-chroma
+--------------------------------------------------
+Title: TCS Customer Intelligence & Insights™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-customer-intelligence-insights
+--------------------------------------------------
+Title: TCS ERP on Cloud
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-erp-on-cloud
+--------------------------------------------------
+Title: ignio™
+Link: https://digitate.com/
+--------------------------------------------------
+Title: TCS iON™
+Link: https://www.tcsion.com/dotcom/TCSSMB/
+--------------------------------------------------
+Title: TCS HOBS™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-hobs
+--------------------------------------------------
+Title: TCS Intelligent Urban Exchange™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-intelligent-urban-exchange
+--------------------------------------------------
+Title: TCS OmniStore™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-omnistore
+--------------------------------------------------
+Title: TCS Optumera™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-optumera
+--------------------------------------------------
+Title: TCS Tap™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-tap
+--------------------------------------------------
+Title: Quartz™ – The Smart Ledgers™
+Link: https://www.tcs.com/what-we-do/products-platforms/quartz
+--------------------------------------------------
+Title: TCS TwinX™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-twinx
+--------------------------------------------------
+Title: TCS MasterCraft™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-mastercraft
+--------------------------------------------------
+Title: Jile™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-jile
+--------------------------------------------------
+Title: Research & Innovation
+Link: https://www.tcs.com/what-we-do/research
+--------------------------------------------------
+Title: TCS Research
+Link: https://www.tcs.com/what-we-do/research
+--------------------------------------------------
+Title: TCS Pace™
+Link: https://www.tcs.com/what-we-do/pace-innovation
+--------------------------------------------------
+Title: Overview
+Link: javascript:void(0);
+--------------------------------------------------
+Title: Industries
+Link: https://www.tcs.com/what-we-do#industries
+--------------------------------------------------
+Title: Banking
+Link: https://www.tcs.com/what-we-do/industries/banking
+--------------------------------------------------
+Title: Capital Markets
+Link: https://www.tcs.com/what-we-do/industries/capital-markets
+--------------------------------------------------
+Title: Consumer Packaged Goods and Distribution
+Link: https://www.tcs.com/what-we-do/industries/consumer-goods-distribution
+--------------------------------------------------
+Title: Communications, Media, and Information Services
+Link: https://www.tcs.com/what-we-do/industries/communications-media-information-services
+--------------------------------------------------
+Title: Education
+Link: https://www.tcs.com/what-we-do/industries/education
+--------------------------------------------------
+Title: Energy, Resources, and Utilities
+Link: https://www.tcs.com/what-we-do/industries/energy-resources-utilities
+--------------------------------------------------
+Title: Healthcare
+Link: https://www.tcs.com/what-we-do/industries/healthcare
+--------------------------------------------------
+Title: High Tech
+Link: https://www.tcs.com/what-we-do/industries/high-tech
+--------------------------------------------------
+Title: Insurance
+Link: https://www.tcs.com/what-we-do/industries/insurance
+--------------------------------------------------
+Title: Life Sciences
+Link: https://www.tcs.com/what-we-do/industries/life-sciences
+--------------------------------------------------
+Title: Manufacturing
+Link: https://www.tcs.com/what-we-do/industries/manufacturing
+--------------------------------------------------
+Title: Public Services
+Link: https://www.tcs.com/what-we-do/industries/public-services
+--------------------------------------------------
+Title: Retail
+Link: https://www.tcs.com/what-we-do/industries/retail
+--------------------------------------------------
+Title: Travel and Logistics
+Link: https://www.tcs.com/what-we-do/industries/travel-and-logistics
+--------------------------------------------------
+Title: Services
+Link: https://www.tcs.com/what-we-do#services
+--------------------------------------------------
+Title: Artificial Intelligence
+Link: https://www.tcs.com/what-we-do/services/artificial-intelligence
+--------------------------------------------------
+Title: Cloud
+Link: https://www.tcs.com/what-we-do/services/cloud
+--------------------------------------------------
+Title: Cognitive Business Operations
+Link: https://www.tcs.com/what-we-do/services/cognitive-business-operations
+--------------------------------------------------
+Title: Consulting
+Link: https://www.tcs.com/what-we-do/services/consulting
+--------------------------------------------------
+Title: Cybersecurity
+Link: https://www.tcs.com/what-we-do/services/cybersecurity
+--------------------------------------------------
+Title: Data and Analytics
+Link: https://www.tcs.com/what-we-do/services/data-and-analytics
+--------------------------------------------------
+Title: Enterprise Solutions
+Link: https://www.tcs.com/what-we-do/services/enterprise-solutions
+--------------------------------------------------
+Title: IoT and Digital Engineering
+Link: https://www.tcs.com/what-we-do/services/iot-digital-engineering
+--------------------------------------------------
+Title: Network Solutions and Services
+Link: https://www.tcs.com/what-we-do/services/network-solutions-and-services
+--------------------------------------------------
+Title: TCS Interactive
+Link: https://www.tcs.com/what-we-do/services/tcs-interactive
+--------------------------------------------------
+Title: Sustainability Services
+Link: https://www.tcs.com/what-we-do/services/sustainability-services
+--------------------------------------------------
+Title: Products and Platforms
+Link: https://www.tcs.com/what-we-do#products
+--------------------------------------------------
+Title: TCS ADD™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-add
+--------------------------------------------------
+Title: TCS BANCS™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-bancs
+--------------------------------------------------
+Title: TCS BFSI Platforms
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-bfsi-platforms
+--------------------------------------------------
+Title: TCS CHROMA™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-chroma
+--------------------------------------------------
+Title: TCS Customer Intelligence & Insights™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-customer-intelligence-insights
+--------------------------------------------------
+Title: TCS ERP on Cloud
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-erp-on-cloud
+--------------------------------------------------
+Title: ignio™
+Link: https://digitate.com/
+--------------------------------------------------
+Title: TCS iON™
+Link: https://www.tcsion.com/dotcom/TCSSMB/
+--------------------------------------------------
+Title: TCS HOBS™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-hobs
+--------------------------------------------------
+Title: TCS Intelligent Urban Exchange™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-intelligent-urban-exchange
+--------------------------------------------------
+Title: TCS OmniStore™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-omnistore
+--------------------------------------------------
+Title: TCS Optumera™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-optumera
+--------------------------------------------------
+Title: TCS Tap™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-tap
+--------------------------------------------------
+Title: Quartz™ – The Smart Ledgers™
+Link: https://www.tcs.com/what-we-do/products-platforms/quartz
+--------------------------------------------------
+Title: TCS TwinX™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-twinx
+--------------------------------------------------
+Title: TCS MasterCraft™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-mastercraft
+--------------------------------------------------
+Title: Jile™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-jile
+--------------------------------------------------
+Title: Research & Innovation
+Link: https://www.tcs.com/what-we-do/research
+--------------------------------------------------
+Title: TCS Research
+Link: https://www.tcs.com/what-we-do/research
+--------------------------------------------------
+Title: TCS Pace™
+Link: https://www.tcs.com/what-we-do/pace-innovation
+--------------------------------------------------
+Title: OverviewPress tab for submenu items
+Link: #
+--------------------------------------------------
+Title: Discover the difference
+Link: https://www.tcs.com/who-we-are
+--------------------------------------------------
+Title: About Us
+Link: https://www.tcs.com/who-we-are
+--------------------------------------------------
+Title: Leadership
+Link: https://www.tcs.com/who-we-are/leadership
+--------------------------------------------------
+Title: Corporate Sustainability
+Link: https://www.tcs.com/who-we-are/tcs-sustainable-business-carbon-neutrality
+--------------------------------------------------
+Title: Diversity, Equity, and Inclusion
+Link: https://www.tcs.com/who-we-are/diversity-equity-inclusion
+--------------------------------------------------
+Title: Corporate Social Responsibility
+Link: https://www.tcs.com/who-we-are/corporate-social-responsibility
+--------------------------------------------------
+Title: The TCS Way
+Link: https://www.tcs.com/who-we-are/tcs-way
+--------------------------------------------------
+Title: Sports Sponsorships
+Link: https://www.tcs.com/who-we-are/sports-sponsorships
+--------------------------------------------------
+Title: Alliances
+Link: https://www.tcs.com/who-we-are/alliances-partnerships
+--------------------------------------------------
+Title: Overview
+Link: javascript:void(0);
+--------------------------------------------------
+Title: About Us
+Link: https://www.tcs.com/who-we-are
+--------------------------------------------------
+Title: Leadership
+Link: https://www.tcs.com/who-we-are/leadership
+--------------------------------------------------
+Title: Corporate Sustainability
+Link: https://www.tcs.com/who-we-are/tcs-sustainable-business-carbon-neutrality
+--------------------------------------------------
+Title: Diversity, Equity, and Inclusion
+Link: https://www.tcs.com/who-we-are/diversity-equity-inclusion
+--------------------------------------------------
+Title: Corporate Social Responsibility
+Link: https://www.tcs.com/who-we-are/corporate-social-responsibility
+--------------------------------------------------
+Title: The TCS Way
+Link: https://www.tcs.com/who-we-are/tcs-way
+--------------------------------------------------
+Title: Sports Sponsorships
+Link: https://www.tcs.com/who-we-are/sports-sponsorships
+--------------------------------------------------
+Title: Alliances
+Link: https://www.tcs.com/who-we-are/alliances-partnerships
+--------------------------------------------------
+Title: OverviewPress tab for submenu items
+Link: #
+--------------------------------------------------
+Title: Discover Expert Insights
+Link: https://www.tcs.com/insights
+--------------------------------------------------
+Title: Customer Stories
+Link: https://www.tcs.com/insights/customer-stories
+--------------------------------------------------
+Title: Perspectives
+Link: https://www.tcs.com/insights/perspectives
+--------------------------------------------------
+Title: Global studies
+Link: https://www.tcs.com/insights/global-studies
+--------------------------------------------------
+Title: Topics
+Link: https://www.tcs.com/insights
+--------------------------------------------------
+Title: Metaverse
+Link: https://www.tcs.com/insights/topics/metaverse-topic
+--------------------------------------------------
+Title: Sustainability
+Link: https://www.tcs.com/insights/topics/sustainability-topic
+--------------------------------------------------
+Title: Cybersecurity
+Link: https://www.tcs.com/insights/topics/cybersecurity-topic
+--------------------------------------------------
+Title: Blockchain
+Link: https://www.tcs.com/insights/topics/blockchain-topic
+--------------------------------------------------
+Title: Cloud
+Link: https://www.tcs.com/insights/topics/cloud-topic
+--------------------------------------------------
+Title: Future of Work
+Link: https://www.tcs.com/insights/topics/future-of-work-topic
+--------------------------------------------------
+Title: Health & Wellness
+Link: https://www.tcs.com/insights/topics/health-and-wellness-topic
+--------------------------------------------------
+Title: IoT
+Link: https://www.tcs.com/insights/topics/internet-of-things-topic
+--------------------------------------------------
+Title: Data Analytics and Storage
+Link: https://www.tcs.com/insights/topics/data-analytics-storage-topic
+--------------------------------------------------
+Title: Overview
+Link: javascript:void(0);
+--------------------------------------------------
+Title: Customer Stories
+Link: https://www.tcs.com/insights/customer-stories
+--------------------------------------------------
+Title: Perspectives
+Link: https://www.tcs.com/insights/perspectives
+--------------------------------------------------
+Title: Global studies
+Link: https://www.tcs.com/insights/global-studies
+--------------------------------------------------
+Title: Topics
+Link: https://www.tcs.com/insights
+--------------------------------------------------
+Title: Metaverse
+Link: https://www.tcs.com/insights/topics/metaverse-topic
+--------------------------------------------------
+Title: Sustainability
+Link: https://www.tcs.com/insights/topics/sustainability-topic
+--------------------------------------------------
+Title: Cybersecurity
+Link: https://www.tcs.com/insights/topics/cybersecurity-topic
+--------------------------------------------------
+Title: Blockchain
+Link: https://www.tcs.com/insights/topics/blockchain-topic
+--------------------------------------------------
+Title: Cloud
+Link: https://www.tcs.com/insights/topics/cloud-topic
+--------------------------------------------------
+Title: Future of Work
+Link: https://www.tcs.com/insights/topics/future-of-work-topic
+--------------------------------------------------
+Title: Health & Wellness
+Link: https://www.tcs.com/insights/topics/health-and-wellness-topic
+--------------------------------------------------
+Title: IoT
+Link: https://www.tcs.com/insights/topics/internet-of-things-topic
+--------------------------------------------------
+Title: Data Analytics and Storage
+Link: https://www.tcs.com/insights/topics/data-analytics-storage-topic
+--------------------------------------------------
+Title: OverviewPress tab for submenu items
+Link: #
+--------------------------------------------------
+Title: Join us
+Link: https://www.tcs.com/careers
+--------------------------------------------------
+Title: India
+Link: https://www.tcs.com/careers/india
+--------------------------------------------------
+Title: India
+Link: https://www.tcs.com/careers/india
+--------------------------------------------------
+Title: Americas
+Link: https://www.tcs.com/careers
+--------------------------------------------------
+Title: Argentina
+Link: https://www.tcs.com/careers/argentina
+--------------------------------------------------
+Title: Brazil
+Link: https://www.tcs.com/careers/brazil
+--------------------------------------------------
+Title: Canada
+Link: https://www.tcs.com/careers/canada
+--------------------------------------------------
+Title: Chile
+Link: https://www.tcs.com/careers/chile
+--------------------------------------------------
+Title: Colombia
+Link: https://www.tcs.com/careers/colombia
+--------------------------------------------------
+Title: Ecuador
+Link: https://www.tcs.com/careers/ecuador
+--------------------------------------------------
+Title: Mexico
+Link: https://www.tcs.com/careers/mexico
+--------------------------------------------------
+Title: Peru
+Link: https://www.tcs.com/careers/peru
+--------------------------------------------------
+Title: Uruguay
+Link: https://www.tcs.com/careers/uruguay
+--------------------------------------------------
+Title: USA
+Link: https://www.tcs.com/careers/united-states
+--------------------------------------------------
+Title: Asia Pacific
+Link: https://www.tcs.com/careers
+--------------------------------------------------
+Title: Australia
+Link: https://www.tcs.com/careers/australia
+--------------------------------------------------
+Title: Mainland China
+Link: https://www.tcs.com/careers/china
+--------------------------------------------------
+Title: Hong Kong SAR
+Link: https://www.tcs.com/careers/hongkong
+--------------------------------------------------
+Title: Indonesia
+Link: https://www.tcs.com/careers/indonesia
+--------------------------------------------------
+Title: Japan
+Link: https://www.tcs.com/careers/japan
+--------------------------------------------------
+Title: Malaysia
+Link: https://www.tcs.com/careers/malaysia
+--------------------------------------------------
+Title: New Zealand
+Link: https://www.tcs.com/careers/newzealand
+--------------------------------------------------
+Title: Philippines
+Link: https://www.tcs.com/careers/philippines
+--------------------------------------------------
+Title: Republic of Korea
+Link: https://www.tcs.com/careers/republic-of-korea
+--------------------------------------------------
+Title: Singapore
+Link: https://www.tcs.com/careers/singapore
+--------------------------------------------------
+Title: Chinese Taipei
+Link: https://www.tcs.com/careers/taiwan
+--------------------------------------------------
+Title: Thailand
+Link: https://www.tcs.com/careers/thailand
+--------------------------------------------------
+Title: Europe and UK
+Link: https://www.tcs.com/careers/trainee-program-graduates-europe
+--------------------------------------------------
+Title: Belgium
+Link: https://www.tcs.com/careers/belgium
+--------------------------------------------------
+Title: Denmark
+Link: https://www.tcs.com/careers/denmark
+--------------------------------------------------
+Title: Estonia
+Link: https://www.tcs.com/careers/estonia
+--------------------------------------------------
+Title: Finland
+Link: https://www.tcs.com/careers/finland
+--------------------------------------------------
+Title: France
+Link: https://www.tcs.com/careers/france
+--------------------------------------------------
+Title: Germany
+Link: https://www.tcs.com/careers/germany
+--------------------------------------------------
+Title: Hungary
+Link: https://www.tcs.com/careers/hungary
+--------------------------------------------------
+Title: Ireland
+Link: https://www.tcs.com/careers/ireland
+--------------------------------------------------
+Title: Italy
+Link: https://www.tcs.com/careers/italy
+--------------------------------------------------
+Title: Luxembourg
+Link: https://www.tcs.com/careers/luxembourg
+--------------------------------------------------
+Title: Netherlands
+Link: https://www.tcs.com/careers/netherlands
+--------------------------------------------------
+Title: Norway
+Link: https://www.tcs.com/careers/norway
+--------------------------------------------------
+Title: Poland
+Link: https://www.tcs.com/careers/poland
+--------------------------------------------------
+Title: Portugal
+Link: https://www.tcs.com/careers/portugal
+--------------------------------------------------
+Title: Spain
+Link: https://www.tcs.com/careers/spain
+--------------------------------------------------
+Title: Sweden
+Link: https://www.tcs.com/careers/sweden
+--------------------------------------------------
+Title: Switzerland
+Link: https://www.tcs.com/careers/switzerland
+--------------------------------------------------
+Title: United Kingdom
+Link: https://www.tcs.com/careers/united-kingdom
+--------------------------------------------------
+Title: Middle East and Africa
+Link: https://www.tcs.com/careers
+--------------------------------------------------
+Title: Bahrain
+Link: https://www.tcs.com/careers/bahrain
+--------------------------------------------------
+Title: Israel
+Link: https://www.tcs.com/careers/israel
+--------------------------------------------------
+Title: Kuwait
+Link: https://www.tcs.com/careers/kuwait
+--------------------------------------------------
+Title: Qatar
+Link: https://www.tcs.com/careers/qatar
+--------------------------------------------------
+Title: Saudi Arabia
+Link: https://www.tcs.com/careers/saudi-arabia
+--------------------------------------------------
+Title: South Africa
+Link: https://www.tcs.com/careers/south-africa
+--------------------------------------------------
+Title: United Arab Emirates
+Link: https://www.tcs.com/careers/united-arab-emirates
+--------------------------------------------------
+Title: Overview
+Link: javascript:void(0);
+--------------------------------------------------
+Title: India
+Link: https://www.tcs.com/careers/india
+--------------------------------------------------
+Title: India
+Link: https://www.tcs.com/careers/india
+--------------------------------------------------
+Title: Americas
+Link: https://www.tcs.com/careers
+--------------------------------------------------
+Title: Argentina
+Link: https://www.tcs.com/careers/argentina
+--------------------------------------------------
+Title: Brazil
+Link: https://www.tcs.com/careers/brazil
+--------------------------------------------------
+Title: Canada
+Link: https://www.tcs.com/careers/canada
+--------------------------------------------------
+Title: Chile
+Link: https://www.tcs.com/careers/chile
+--------------------------------------------------
+Title: Colombia
+Link: https://www.tcs.com/careers/colombia
+--------------------------------------------------
+Title: Ecuador
+Link: https://www.tcs.com/careers/ecuador
+--------------------------------------------------
+Title: Mexico
+Link: https://www.tcs.com/careers/mexico
+--------------------------------------------------
+Title: Peru
+Link: https://www.tcs.com/careers/peru
+--------------------------------------------------
+Title: Uruguay
+Link: https://www.tcs.com/careers/uruguay
+--------------------------------------------------
+Title: USA
+Link: https://www.tcs.com/careers/united-states
+--------------------------------------------------
+Title: Asia Pacific
+Link: https://www.tcs.com/careers
+--------------------------------------------------
+Title: Australia
+Link: https://www.tcs.com/careers/australia
+--------------------------------------------------
+Title: Mainland China
+Link: https://www.tcs.com/careers/china
+--------------------------------------------------
+Title: Hong Kong SAR
+Link: https://www.tcs.com/careers/hongkong
+--------------------------------------------------
+Title: Indonesia
+Link: https://www.tcs.com/careers/indonesia
+--------------------------------------------------
+Title: Japan
+Link: https://www.tcs.com/careers/japan
+--------------------------------------------------
+Title: Malaysia
+Link: https://www.tcs.com/careers/malaysia
+--------------------------------------------------
+Title: New Zealand
+Link: https://www.tcs.com/careers/newzealand
+--------------------------------------------------
+Title: Philippines
+Link: https://www.tcs.com/careers/philippines
+--------------------------------------------------
+Title: Republic of Korea
+Link: https://www.tcs.com/careers/republic-of-korea
+--------------------------------------------------
+Title: Singapore
+Link: https://www.tcs.com/careers/singapore
+--------------------------------------------------
+Title: Chinese Taipei
+Link: https://www.tcs.com/careers/taiwan
+--------------------------------------------------
+Title: Thailand
+Link: https://www.tcs.com/careers/thailand
+--------------------------------------------------
+Title: Europe and UK
+Link: https://www.tcs.com/careers/trainee-program-graduates-europe
+--------------------------------------------------
+Title: Belgium
+Link: https://www.tcs.com/careers/belgium
+--------------------------------------------------
+Title: Denmark
+Link: https://www.tcs.com/careers/denmark
+--------------------------------------------------
+Title: Estonia
+Link: https://www.tcs.com/careers/estonia
+--------------------------------------------------
+Title: Finland
+Link: https://www.tcs.com/careers/finland
+--------------------------------------------------
+Title: France
+Link: https://www.tcs.com/careers/france
+--------------------------------------------------
+Title: Germany
+Link: https://www.tcs.com/careers/germany
+--------------------------------------------------
+Title: Hungary
+Link: https://www.tcs.com/careers/hungary
+--------------------------------------------------
+Title: Ireland
+Link: https://www.tcs.com/careers/ireland
+--------------------------------------------------
+Title: Italy
+Link: https://www.tcs.com/careers/italy
+--------------------------------------------------
+Title: Luxembourg
+Link: https://www.tcs.com/careers/luxembourg
+--------------------------------------------------
+Title: Netherlands
+Link: https://www.tcs.com/careers/netherlands
+--------------------------------------------------
+Title: Norway
+Link: https://www.tcs.com/careers/norway
+--------------------------------------------------
+Title: Poland
+Link: https://www.tcs.com/careers/poland
+--------------------------------------------------
+Title: Portugal
+Link: https://www.tcs.com/careers/portugal
+--------------------------------------------------
+Title: Spain
+Link: https://www.tcs.com/careers/spain
+--------------------------------------------------
+Title: Sweden
+Link: https://www.tcs.com/careers/sweden
+--------------------------------------------------
+Title: Switzerland
+Link: https://www.tcs.com/careers/switzerland
+--------------------------------------------------
+Title: United Kingdom
+Link: https://www.tcs.com/careers/united-kingdom
+--------------------------------------------------
+Title: Middle East and Africa
+Link: https://www.tcs.com/careers
+--------------------------------------------------
+Title: Bahrain
+Link: https://www.tcs.com/careers/bahrain
+--------------------------------------------------
+Title: Israel
+Link: https://www.tcs.com/careers/israel
+--------------------------------------------------
+Title: Kuwait
+Link: https://www.tcs.com/careers/kuwait
+--------------------------------------------------
+Title: Qatar
+Link: https://www.tcs.com/careers/qatar
+--------------------------------------------------
+Title: Saudi Arabia
+Link: https://www.tcs.com/careers/saudi-arabia
+--------------------------------------------------
+Title: South Africa
+Link: https://www.tcs.com/careers/south-africa
+--------------------------------------------------
+Title: United Arab Emirates
+Link: https://www.tcs.com/careers/united-arab-emirates
+--------------------------------------------------
+Title: OverviewPress tab for submenu items
+Link: #
+--------------------------------------------------
+Title: Discover more
+Link: https://www.tcs.com/who-we-are/newsroom
+--------------------------------------------------
+Title: Press releases
+Link: https://www.tcs.com/who-we-are/newsroom
+--------------------------------------------------
+Title: TCS Partners with The Cumberland Building Society to Transform its Core Banking Solution
+Link: https://www.tcs.com/who-we-are/newsroom/press-release/tcs-partners-with-Cumberland-building-society-transform-core-banking-solution
+--------------------------------------------------
+Title: TCS Partners with Air New Zealand to Drive AI-Led Transformation, Enhance Passenger Experience
+Link: https://www.tcs.com/who-we-are/newsroom/press-release/tcs-partners-air-new-zealand-drive-ai-transformation-enhance-passenger-experience
+--------------------------------------------------
+Title: TCS Extends Partnership with Coop Danmark to Enhance Operations & Customer Shopping Experience
+Link: https://www.tcs.com/who-we-are/newsroom/press-release/tcs-extends-partnership-coop-danmark-enhance-operations-customer-shopping-experience
+--------------------------------------------------
+Title: View all
+Link: https://www.tcs.com/who-we-are/newsroom
+--------------------------------------------------
+Title: News alerts
+Link: https://www.tcs.com/who-we-are/newsroom/news-alert
+--------------------------------------------------
+Title: TCS Wins NVIDIA Rising Star Partner of the Year Award at GTC 2025 for AI Innovation and Excellence
+Link: https://www.tcs.com/who-we-are/newsroom/news-alert/tcs-wins-nvidia-rising-star-partner-year-award-gtc-2025-ai-innovation-excellence
+--------------------------------------------------
+Title: TCS Launches the 2025 Team TCS Teachers Contest, Celebrating Educators Through the Power of Running
+Link: https://www.tcs.com/who-we-are/newsroom/news-alert/tcs-launches-2025-team-tcs-teachers-celebrating-educators-through-power-of-running
+--------------------------------------------------
+Title: TCS Partners with the Danish Academy of Technical Sciences to Combat Dengue Through Technology and Citizen Engagement
+Link: https://www.tcs.com/who-we-are/newsroom/news-alert/tcs-partners-with-danish-academy-technical-sciences-to-combat-dengue-technology-citizen-engagement
+--------------------------------------------------
+Title: View all
+Link: https://www.tcs.com/who-we-are/newsroom/news-alert
+--------------------------------------------------
+Title: Analyst recognition
+Link: https://www.tcs.com/who-we-are/newsroom/analyst-recognition
+--------------------------------------------------
+Title: TCS Positioned as a Leader in IDC MarketScape for Worldwide Life Science R&D ITO Services 2024
+Link: https://www.tcs.com/who-we-are/newsroom/analyst-reports/tcs-positioned-leader-idc-marketscape-worldwide-life-science-ito-services-2024
+--------------------------------------------------
+Title: TCS Named a Leader in IDC MarketScape: European SAP Modernization Services 2024 Vendor Assessment
+Link: https://www.tcs.com/who-we-are/newsroom/analyst-reports/tcs-leader-idc-marketscape-european-sap-modernization-services-vendor-assessment
+--------------------------------------------------
+Title: TCS Recognized as a Leader in Gartner Magic Quadrant for Worldwide Cloud ERP Services
+Link: https://www.tcs.com/who-we-are/newsroom/analyst-reports/tcs-recognized-as-leader-in-gartner-magic-quadrant-for-worldwide-cloud-erp-services
+--------------------------------------------------
+Title: View all
+Link: https://www.tcs.com/who-we-are/newsroom/analyst-recognition
+--------------------------------------------------
+Title: Events
+Link: https://www.tcs.com/who-we-are/events
+--------------------------------------------------
+Title: TCS is a gold sponsor at the Ellucian LIVE 2025
+Link: https://www.tcs.com/who-we-are/events/ellucian-live-event-2025
+--------------------------------------------------
+Title: TCS is a Platinum Sponsor at ServiceNow's Knowledge 2025
+Link: https://www.tcs.com/who-we-are/events/tcs-servicenow-knowledge-2025
+--------------------------------------------------
+Title: Veeva Commercial Summit: Discussing Innovation in Life Sciences
+Link: https://www.tcs.com/who-we-are/events/veeva-commercial-summit
+--------------------------------------------------
+Title: View all
+Link: https://www.tcs.com/who-we-are/events
+--------------------------------------------------
+Title: Media kit
+Link: https://www.tcs.com/who-we-are/newsroom/media-kit
+--------------------------------------------------
+Title: Overview
+Link: javascript:void(0);
+--------------------------------------------------
+Title: Press releases
+Link: https://www.tcs.com/who-we-are/newsroom
+--------------------------------------------------
+Title: News alerts
+Link: https://www.tcs.com/who-we-are/newsroom/news-alert
+--------------------------------------------------
+Title: Analyst recognition
+Link: https://www.tcs.com/who-we-are/newsroom/analyst-recognition
+--------------------------------------------------
+Title: Events
+Link: https://www.tcs.com/who-we-are/events
+--------------------------------------------------
+Title: Media kit
+Link: https://www.tcs.com/who-we-are/newsroom/media-kit
+--------------------------------------------------
+Title: OverviewPress tab for submenu items
+Link: #
+--------------------------------------------------
+Title: Discover more
+Link: https://www.tcs.com/investor-relations
+--------------------------------------------------
+Title: Management Commentary
+Link: https://www.tcs.com/investor-relations.html#management
+--------------------------------------------------
+Title: Latest Quarter Commentary
+Link: https://www.tcs.com/investor-relations/management-commentary/latest-quarter-commentary
+--------------------------------------------------
+Title: Annual Report Section
+Link: https://www.tcs.com/investor-relations/management-commentary/annual-report-sections
+--------------------------------------------------
+Title: Financials
+Link: https://www.tcs.com/investor-relations.html#quarterly
+--------------------------------------------------
+Title: Quarterly Earnings Reports
+Link: https://www.tcs.com/investor-relations/financial-statements
+--------------------------------------------------
+Title: Download TCS Data Sheet
+Link: /content/dam/tcs/pdf/discover-tcs/investor-relations/tcs-data-sheet/TCS-Data-Sheet-Q3FY25.xlsx
+--------------------------------------------------
+Title: Erstwhile CMC Financials
+Link: https://www.tcs.com/investor-relations/cmc-financials
+--------------------------------------------------
+Title: News and Events
+Link: https://www.tcs.com/investor-relations.html#news
+--------------------------------------------------
+Title: Press Releases
+Link: https://www.tcs.com/who-we-are/newsroom/investor-press-release
+--------------------------------------------------
+Title: Corporate Actions
+Link: https://www.tcs.com/investor-relations/view-all-corporate-actions
+--------------------------------------------------
+Title: Events
+Link: https://www.tcs.com/investor-relations/events
+--------------------------------------------------
+Title: Calendar
+Link: https://www.tcs.com/investor-relations/calendar
+--------------------------------------------------
+Title: ESG
+Link: https://www.tcs.com/investor-relations.html#esg
+--------------------------------------------------
+Title: Environment
+Link: https://www.tcs.com/investor-relations/esg/environment
+--------------------------------------------------
+Title: Social
+Link: https://www.tcs.com/investor-relations/esg/social
+--------------------------------------------------
+Title: Governance
+Link: https://www.tcs.com/investor-relations/corporate-governance
+--------------------------------------------------
+Title: Policies and Reports
+Link: https://www.tcs.com/investor-relations/corporate-sustainability-investor-relations
+--------------------------------------------------
+Title: Stakeholder Engagement and Identification of Material Issues
+Link: https://www.tcs.com/investor-relations/stakeholder-engagement-identification-material-issues
+--------------------------------------------------
+Title: Resources
+Link: https://www.tcs.com/investor-relations.html#resource
+--------------------------------------------------
+Title: Investor FAQs
+Link: https://www.tcs.com/investor-relations/investor-faqs
+--------------------------------------------------
+Title: eTDS Portal
+Link: https://iepfinvestorinfo.tcsapps.com/eTDS/
+--------------------------------------------------
+Title: Stock Information
+Link: https://www.tcs.com/investor-relations/stock-information
+--------------------------------------------------
+Title: Analyst Coverage
+Link: https://www.tcs.com/investor-relations/overlays/analyst-coverage
+--------------------------------------------------
+Title: Subsidiaries
+Link: https://www.tcs.com/investor-relations/subsidiaries
+--------------------------------------------------
+Title: Subscribe to Investor Updates
+Link: https://www.tcs.com/contact-us/whats-on-your-mind/ir-landing/ir-form
+--------------------------------------------------
+Title: Unclaimed Dividend Information
+Link: https://iepfinvestorinfo.tcsapps.com/#/home
+--------------------------------------------------
+Title: Overview
+Link: javascript:void(0);
+--------------------------------------------------
+Title: Management Commentary
+Link: https://www.tcs.com/investor-relations#management
+--------------------------------------------------
+Title: Latest Quarter Commentary
+Link: https://www.tcs.com/investor-relations/management-commentary/latest-quarter-commentary
+--------------------------------------------------
+Title: Annual Report Section
+Link: https://www.tcs.com/investor-relations/management-commentary/annual-report-sections
+--------------------------------------------------
+Title: Financials
+Link: https://www.tcs.com/investor-relations#quarterly
+--------------------------------------------------
+Title: Quarterly Earnings Reports
+Link: https://www.tcs.com/investor-relations/financial-statements
+--------------------------------------------------
+Title: Download TCS Data Sheet
+Link: /content/dam/tcs/pdf/discover-tcs/investor-relations/tcs-data-sheet/TCS-Data-Sheet-Q3FY25.xlsx
+--------------------------------------------------
+Title: Erstwhile CMC Financials
+Link: https://www.tcs.com/investor-relations/cmc-financials
+--------------------------------------------------
+Title: News and Events
+Link: https://www.tcs.com/investor-relations#news
+--------------------------------------------------
+Title: Press Releases
+Link: https://www.tcs.com/who-we-are/newsroom/investor-press-release
+--------------------------------------------------
+Title: Corporate Actions
+Link: https://www.tcs.com/investor-relations/view-all-corporate-actions
+--------------------------------------------------
+Title: Events
+Link: https://www.tcs.com/investor-relations/events
+--------------------------------------------------
+Title: Calendar
+Link: https://www.tcs.com/investor-relations/calendar
+--------------------------------------------------
+Title: ESG
+Link: https://www.tcs.com/investor-relations#esg
+--------------------------------------------------
+Title: Environment
+Link: https://www.tcs.com/investor-relations/esg/environment
+--------------------------------------------------
+Title: Social
+Link: https://www.tcs.com/investor-relations/esg/social
+--------------------------------------------------
+Title: Governance
+Link: https://www.tcs.com/investor-relations/corporate-governance
+--------------------------------------------------
+Title: Policies and Reports
+Link: https://www.tcs.com/investor-relations/corporate-sustainability-investor-relations
+--------------------------------------------------
+Title: Stakeholder Engagement and Identification of Material Issues
+Link: https://www.tcs.com/investor-relations/stakeholder-engagement-identification-material-issues
+--------------------------------------------------
+Title: Resources
+Link: https://www.tcs.com/investor-relations#resource
+--------------------------------------------------
+Title: Investor FAQs
+Link: https://www.tcs.com/investor-relations/investor-faqs
+--------------------------------------------------
+Title: eTDS Portal
+Link: https://iepfinvestorinfo.tcsapps.com/eTDS/
+--------------------------------------------------
+Title: Stock Information
+Link: https://www.tcs.com/investor-relations/stock-information
+--------------------------------------------------
+Title: Analyst Coverage
+Link: https://www.tcs.com/investor-relations/overlays/analyst-coverage
+--------------------------------------------------
+Title: Subsidiaries
+Link: https://www.tcs.com/investor-relations/subsidiaries
+--------------------------------------------------
+Title: Subscribe to Investor Updates
+Link: https://www.tcs.com/contact-us/whats-on-your-mind/ir-landing/ir-form
+--------------------------------------------------
+Title: Unclaimed Dividend Information
+Link: https://iepfinvestorinfo.tcsapps.com/#/home
+--------------------------------------------------
+Title: Click here or press enter to go to homepage Opens in new tab
+Link: https://www.tcs.com
+--------------------------------------------------
+Title: tata.com logoOpen in New Tab
+Link: https://www.tata.com/
+--------------------------------------------------
+Title: OverviewPress tab for submenu items
+Link: #
+--------------------------------------------------
+Title: Discover all solutions
+Link: https://www.tcs.com/what-we-do
+--------------------------------------------------
+Title: Industries
+Link: https://www.tcs.com/what-we-do.html#industries
+--------------------------------------------------
+Title: Banking
+Link: https://www.tcs.com/what-we-do/industries/banking
+--------------------------------------------------
+Title: Capital Markets
+Link: https://www.tcs.com/what-we-do/industries/capital-markets
+--------------------------------------------------
+Title: Consumer Packaged Goods and Distribution
+Link: https://www.tcs.com/what-we-do/industries/consumer-goods-distribution
+--------------------------------------------------
+Title: Communications, Media, and Information Services
+Link: https://www.tcs.com/what-we-do/industries/communications-media-information-services
+--------------------------------------------------
+Title: Education
+Link: https://www.tcs.com/what-we-do/industries/education
+--------------------------------------------------
+Title: Energy, Resources, and Utilities
+Link: https://www.tcs.com/what-we-do/industries/energy-resources-utilities
+--------------------------------------------------
+Title: Healthcare
+Link: https://www.tcs.com/what-we-do/industries/healthcare
+--------------------------------------------------
+Title: High Tech
+Link: https://www.tcs.com/what-we-do/industries/high-tech
+--------------------------------------------------
+Title: Insurance
+Link: https://www.tcs.com/what-we-do/industries/insurance
+--------------------------------------------------
+Title: Life Sciences
+Link: https://www.tcs.com/what-we-do/industries/life-sciences
+--------------------------------------------------
+Title: Manufacturing
+Link: https://www.tcs.com/what-we-do/industries/manufacturing
+--------------------------------------------------
+Title: Public Services
+Link: https://www.tcs.com/what-we-do/industries/public-services
+--------------------------------------------------
+Title: Retail
+Link: https://www.tcs.com/what-we-do/industries/retail
+--------------------------------------------------
+Title: Travel and Logistics
+Link: https://www.tcs.com/what-we-do/industries/travel-and-logistics
+--------------------------------------------------
+Title: Services
+Link: https://www.tcs.com/what-we-do.html#services
+--------------------------------------------------
+Title: Artificial Intelligence
+Link: https://www.tcs.com/what-we-do/services/artificial-intelligence
+--------------------------------------------------
+Title: Cloud
+Link: https://www.tcs.com/what-we-do/services/cloud
+--------------------------------------------------
+Title: Cognitive Business Operations
+Link: https://www.tcs.com/what-we-do/services/cognitive-business-operations
+--------------------------------------------------
+Title: Consulting
+Link: https://www.tcs.com/what-we-do/services/consulting
+--------------------------------------------------
+Title: Cybersecurity
+Link: https://www.tcs.com/what-we-do/services/cybersecurity
+--------------------------------------------------
+Title: Data and Analytics
+Link: https://www.tcs.com/what-we-do/services/data-and-analytics
+--------------------------------------------------
+Title: Enterprise Solutions
+Link: https://www.tcs.com/what-we-do/services/enterprise-solutions
+--------------------------------------------------
+Title: IoT and Digital Engineering
+Link: https://www.tcs.com/what-we-do/services/iot-digital-engineering
+--------------------------------------------------
+Title: Network Solutions and Services
+Link: https://www.tcs.com/what-we-do/services/network-solutions-and-services
+--------------------------------------------------
+Title: TCS Interactive
+Link: https://www.tcs.com/what-we-do/services/tcs-interactive
+--------------------------------------------------
+Title: Sustainability Services
+Link: https://www.tcs.com/what-we-do/services/sustainability-services
+--------------------------------------------------
+Title: Products and Platforms
+Link: https://www.tcs.com/what-we-do.html#products
+--------------------------------------------------
+Title: TCS ADD™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-add
+--------------------------------------------------
+Title: TCS BANCS™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-bancs
+--------------------------------------------------
+Title: TCS BFSI Platforms
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-bfsi-platforms
+--------------------------------------------------
+Title: TCS CHROMA™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-chroma
+--------------------------------------------------
+Title: TCS Customer Intelligence & Insights™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-customer-intelligence-insights
+--------------------------------------------------
+Title: TCS ERP on Cloud
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-erp-on-cloud
+--------------------------------------------------
+Title: ignio™
+Link: https://digitate.com/
+--------------------------------------------------
+Title: TCS iON™
+Link: https://www.tcsion.com/dotcom/TCSSMB/
+--------------------------------------------------
+Title: TCS HOBS™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-hobs
+--------------------------------------------------
+Title: TCS Intelligent Urban Exchange™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-intelligent-urban-exchange
+--------------------------------------------------
+Title: TCS OmniStore™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-omnistore
+--------------------------------------------------
+Title: TCS Optumera™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-optumera
+--------------------------------------------------
+Title: TCS Tap™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-tap
+--------------------------------------------------
+Title: Quartz™ – The Smart Ledgers™
+Link: https://www.tcs.com/what-we-do/products-platforms/quartz
+--------------------------------------------------
+Title: TCS TwinX™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-twinx
+--------------------------------------------------
+Title: TCS MasterCraft™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-mastercraft
+--------------------------------------------------
+Title: Jile™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-jile
+--------------------------------------------------
+Title: Research & Innovation
+Link: https://www.tcs.com/what-we-do/research
+--------------------------------------------------
+Title: TCS Research
+Link: https://www.tcs.com/what-we-do/research
+--------------------------------------------------
+Title: TCS Pace™
+Link: https://www.tcs.com/what-we-do/pace-innovation
+--------------------------------------------------
+Title: Overview
+Link: javascript:void(0);
+--------------------------------------------------
+Title: Industries
+Link: https://www.tcs.com/what-we-do#industries
+--------------------------------------------------
+Title: Banking
+Link: https://www.tcs.com/what-we-do/industries/banking
+--------------------------------------------------
+Title: Capital Markets
+Link: https://www.tcs.com/what-we-do/industries/capital-markets
+--------------------------------------------------
+Title: Consumer Packaged Goods and Distribution
+Link: https://www.tcs.com/what-we-do/industries/consumer-goods-distribution
+--------------------------------------------------
+Title: Communications, Media, and Information Services
+Link: https://www.tcs.com/what-we-do/industries/communications-media-information-services
+--------------------------------------------------
+Title: Education
+Link: https://www.tcs.com/what-we-do/industries/education
+--------------------------------------------------
+Title: Energy, Resources, and Utilities
+Link: https://www.tcs.com/what-we-do/industries/energy-resources-utilities
+--------------------------------------------------
+Title: Healthcare
+Link: https://www.tcs.com/what-we-do/industries/healthcare
+--------------------------------------------------
+Title: High Tech
+Link: https://www.tcs.com/what-we-do/industries/high-tech
+--------------------------------------------------
+Title: Insurance
+Link: https://www.tcs.com/what-we-do/industries/insurance
+--------------------------------------------------
+Title: Life Sciences
+Link: https://www.tcs.com/what-we-do/industries/life-sciences
+--------------------------------------------------
+Title: Manufacturing
+Link: https://www.tcs.com/what-we-do/industries/manufacturing
+--------------------------------------------------
+Title: Public Services
+Link: https://www.tcs.com/what-we-do/industries/public-services
+--------------------------------------------------
+Title: Retail
+Link: https://www.tcs.com/what-we-do/industries/retail
+--------------------------------------------------
+Title: Travel and Logistics
+Link: https://www.tcs.com/what-we-do/industries/travel-and-logistics
+--------------------------------------------------
+Title: Services
+Link: https://www.tcs.com/what-we-do#services
+--------------------------------------------------
+Title: Artificial Intelligence
+Link: https://www.tcs.com/what-we-do/services/artificial-intelligence
+--------------------------------------------------
+Title: Cloud
+Link: https://www.tcs.com/what-we-do/services/cloud
+--------------------------------------------------
+Title: Cognitive Business Operations
+Link: https://www.tcs.com/what-we-do/services/cognitive-business-operations
+--------------------------------------------------
+Title: Consulting
+Link: https://www.tcs.com/what-we-do/services/consulting
+--------------------------------------------------
+Title: Cybersecurity
+Link: https://www.tcs.com/what-we-do/services/cybersecurity
+--------------------------------------------------
+Title: Data and Analytics
+Link: https://www.tcs.com/what-we-do/services/data-and-analytics
+--------------------------------------------------
+Title: Enterprise Solutions
+Link: https://www.tcs.com/what-we-do/services/enterprise-solutions
+--------------------------------------------------
+Title: IoT and Digital Engineering
+Link: https://www.tcs.com/what-we-do/services/iot-digital-engineering
+--------------------------------------------------
+Title: Network Solutions and Services
+Link: https://www.tcs.com/what-we-do/services/network-solutions-and-services
+--------------------------------------------------
+Title: TCS Interactive
+Link: https://www.tcs.com/what-we-do/services/tcs-interactive
+--------------------------------------------------
+Title: Sustainability Services
+Link: https://www.tcs.com/what-we-do/services/sustainability-services
+--------------------------------------------------
+Title: Products and Platforms
+Link: https://www.tcs.com/what-we-do#products
+--------------------------------------------------
+Title: TCS ADD™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-add
+--------------------------------------------------
+Title: TCS BANCS™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-bancs
+--------------------------------------------------
+Title: TCS BFSI Platforms
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-bfsi-platforms
+--------------------------------------------------
+Title: TCS CHROMA™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-chroma
+--------------------------------------------------
+Title: TCS Customer Intelligence & Insights™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-customer-intelligence-insights
+--------------------------------------------------
+Title: TCS ERP on Cloud
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-erp-on-cloud
+--------------------------------------------------
+Title: ignio™
+Link: https://digitate.com/
+--------------------------------------------------
+Title: TCS iON™
+Link: https://www.tcsion.com/dotcom/TCSSMB/
+--------------------------------------------------
+Title: TCS HOBS™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-hobs
+--------------------------------------------------
+Title: TCS Intelligent Urban Exchange™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-intelligent-urban-exchange
+--------------------------------------------------
+Title: TCS OmniStore™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-omnistore
+--------------------------------------------------
+Title: TCS Optumera™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-optumera
+--------------------------------------------------
+Title: TCS Tap™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-tap
+--------------------------------------------------
+Title: Quartz™ – The Smart Ledgers™
+Link: https://www.tcs.com/what-we-do/products-platforms/quartz
+--------------------------------------------------
+Title: TCS TwinX™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-twinx
+--------------------------------------------------
+Title: TCS MasterCraft™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-mastercraft
+--------------------------------------------------
+Title: Jile™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-jile
+--------------------------------------------------
+Title: Research & Innovation
+Link: https://www.tcs.com/what-we-do/research
+--------------------------------------------------
+Title: TCS Research
+Link: https://www.tcs.com/what-we-do/research
+--------------------------------------------------
+Title: TCS Pace™
+Link: https://www.tcs.com/what-we-do/pace-innovation
+--------------------------------------------------
+Title: OverviewPress tab for submenu items
+Link: #
+--------------------------------------------------
+Title: Discover the difference
+Link: https://www.tcs.com/who-we-are
+--------------------------------------------------
+Title: About Us
+Link: https://www.tcs.com/who-we-are
+--------------------------------------------------
+Title: Leadership
+Link: https://www.tcs.com/who-we-are/leadership
+--------------------------------------------------
+Title: Corporate Sustainability
+Link: https://www.tcs.com/who-we-are/tcs-sustainable-business-carbon-neutrality
+--------------------------------------------------
+Title: Diversity, Equity, and Inclusion
+Link: https://www.tcs.com/who-we-are/diversity-equity-inclusion
+--------------------------------------------------
+Title: Corporate Social Responsibility
+Link: https://www.tcs.com/who-we-are/corporate-social-responsibility
+--------------------------------------------------
+Title: The TCS Way
+Link: https://www.tcs.com/who-we-are/tcs-way
+--------------------------------------------------
+Title: Sports Sponsorships
+Link: https://www.tcs.com/who-we-are/sports-sponsorships
+--------------------------------------------------
+Title: Alliances
+Link: https://www.tcs.com/who-we-are/alliances-partnerships
+--------------------------------------------------
+Title: Overview
+Link: javascript:void(0);
+--------------------------------------------------
+Title: About Us
+Link: https://www.tcs.com/who-we-are
+--------------------------------------------------
+Title: Leadership
+Link: https://www.tcs.com/who-we-are/leadership
+--------------------------------------------------
+Title: Corporate Sustainability
+Link: https://www.tcs.com/who-we-are/tcs-sustainable-business-carbon-neutrality
+--------------------------------------------------
+Title: Diversity, Equity, and Inclusion
+Link: https://www.tcs.com/who-we-are/diversity-equity-inclusion
+--------------------------------------------------
+Title: Corporate Social Responsibility
+Link: https://www.tcs.com/who-we-are/corporate-social-responsibility
+--------------------------------------------------
+Title: The TCS Way
+Link: https://www.tcs.com/who-we-are/tcs-way
+--------------------------------------------------
+Title: Sports Sponsorships
+Link: https://www.tcs.com/who-we-are/sports-sponsorships
+--------------------------------------------------
+Title: Alliances
+Link: https://www.tcs.com/who-we-are/alliances-partnerships
+--------------------------------------------------
+Title: OverviewPress tab for submenu items
+Link: #
+--------------------------------------------------
+Title: Discover Expert Insights
+Link: https://www.tcs.com/insights
+--------------------------------------------------
+Title: Customer Stories
+Link: https://www.tcs.com/insights/customer-stories
+--------------------------------------------------
+Title: Perspectives
+Link: https://www.tcs.com/insights/perspectives
+--------------------------------------------------
+Title: Global studies
+Link: https://www.tcs.com/insights/global-studies
+--------------------------------------------------
+Title: Topics
+Link: https://www.tcs.com/insights
+--------------------------------------------------
+Title: Metaverse
+Link: https://www.tcs.com/insights/topics/metaverse-topic
+--------------------------------------------------
+Title: Sustainability
+Link: https://www.tcs.com/insights/topics/sustainability-topic
+--------------------------------------------------
+Title: Cybersecurity
+Link: https://www.tcs.com/insights/topics/cybersecurity-topic
+--------------------------------------------------
+Title: Blockchain
+Link: https://www.tcs.com/insights/topics/blockchain-topic
+--------------------------------------------------
+Title: Cloud
+Link: https://www.tcs.com/insights/topics/cloud-topic
+--------------------------------------------------
+Title: Future of Work
+Link: https://www.tcs.com/insights/topics/future-of-work-topic
+--------------------------------------------------
+Title: Health & Wellness
+Link: https://www.tcs.com/insights/topics/health-and-wellness-topic
+--------------------------------------------------
+Title: IoT
+Link: https://www.tcs.com/insights/topics/internet-of-things-topic
+--------------------------------------------------
+Title: Data Analytics and Storage
+Link: https://www.tcs.com/insights/topics/data-analytics-storage-topic
+--------------------------------------------------
+Title: Overview
+Link: javascript:void(0);
+--------------------------------------------------
+Title: Customer Stories
+Link: https://www.tcs.com/insights/customer-stories
+--------------------------------------------------
+Title: Perspectives
+Link: https://www.tcs.com/insights/perspectives
+--------------------------------------------------
+Title: Global studies
+Link: https://www.tcs.com/insights/global-studies
+--------------------------------------------------
+Title: Topics
+Link: https://www.tcs.com/insights
+--------------------------------------------------
+Title: Metaverse
+Link: https://www.tcs.com/insights/topics/metaverse-topic
+--------------------------------------------------
+Title: Sustainability
+Link: https://www.tcs.com/insights/topics/sustainability-topic
+--------------------------------------------------
+Title: Cybersecurity
+Link: https://www.tcs.com/insights/topics/cybersecurity-topic
+--------------------------------------------------
+Title: Blockchain
+Link: https://www.tcs.com/insights/topics/blockchain-topic
+--------------------------------------------------
+Title: Cloud
+Link: https://www.tcs.com/insights/topics/cloud-topic
+--------------------------------------------------
+Title: Future of Work
+Link: https://www.tcs.com/insights/topics/future-of-work-topic
+--------------------------------------------------
+Title: Health & Wellness
+Link: https://www.tcs.com/insights/topics/health-and-wellness-topic
+--------------------------------------------------
+Title: IoT
+Link: https://www.tcs.com/insights/topics/internet-of-things-topic
+--------------------------------------------------
+Title: Data Analytics and Storage
+Link: https://www.tcs.com/insights/topics/data-analytics-storage-topic
+--------------------------------------------------
+Title: OverviewPress tab for submenu items
+Link: #
+--------------------------------------------------
+Title: Join us
+Link: https://www.tcs.com/careers
+--------------------------------------------------
+Title: India
+Link: https://www.tcs.com/careers/india
+--------------------------------------------------
+Title: India
+Link: https://www.tcs.com/careers/india
+--------------------------------------------------
+Title: Americas
+Link: https://www.tcs.com/careers
+--------------------------------------------------
+Title: Argentina
+Link: https://www.tcs.com/careers/argentina
+--------------------------------------------------
+Title: Brazil
+Link: https://www.tcs.com/careers/brazil
+--------------------------------------------------
+Title: Canada
+Link: https://www.tcs.com/careers/canada
+--------------------------------------------------
+Title: Chile
+Link: https://www.tcs.com/careers/chile
+--------------------------------------------------
+Title: Colombia
+Link: https://www.tcs.com/careers/colombia
+--------------------------------------------------
+Title: Ecuador
+Link: https://www.tcs.com/careers/ecuador
+--------------------------------------------------
+Title: Mexico
+Link: https://www.tcs.com/careers/mexico
+--------------------------------------------------
+Title: Peru
+Link: https://www.tcs.com/careers/peru
+--------------------------------------------------
+Title: Uruguay
+Link: https://www.tcs.com/careers/uruguay
+--------------------------------------------------
+Title: USA
+Link: https://www.tcs.com/careers/united-states
+--------------------------------------------------
+Title: Asia Pacific
+Link: https://www.tcs.com/careers
+--------------------------------------------------
+Title: Australia
+Link: https://www.tcs.com/careers/australia
+--------------------------------------------------
+Title: Mainland China
+Link: https://www.tcs.com/careers/china
+--------------------------------------------------
+Title: Hong Kong SAR
+Link: https://www.tcs.com/careers/hongkong
+--------------------------------------------------
+Title: Indonesia
+Link: https://www.tcs.com/careers/indonesia
+--------------------------------------------------
+Title: Japan
+Link: https://www.tcs.com/careers/japan
+--------------------------------------------------
+Title: Malaysia
+Link: https://www.tcs.com/careers/malaysia
+--------------------------------------------------
+Title: New Zealand
+Link: https://www.tcs.com/careers/newzealand
+--------------------------------------------------
+Title: Philippines
+Link: https://www.tcs.com/careers/philippines
+--------------------------------------------------
+Title: Republic of Korea
+Link: https://www.tcs.com/careers/republic-of-korea
+--------------------------------------------------
+Title: Singapore
+Link: https://www.tcs.com/careers/singapore
+--------------------------------------------------
+Title: Chinese Taipei
+Link: https://www.tcs.com/careers/taiwan
+--------------------------------------------------
+Title: Thailand
+Link: https://www.tcs.com/careers/thailand
+--------------------------------------------------
+Title: Europe and UK
+Link: https://www.tcs.com/careers/trainee-program-graduates-europe
+--------------------------------------------------
+Title: Belgium
+Link: https://www.tcs.com/careers/belgium
+--------------------------------------------------
+Title: Denmark
+Link: https://www.tcs.com/careers/denmark
+--------------------------------------------------
+Title: Estonia
+Link: https://www.tcs.com/careers/estonia
+--------------------------------------------------
+Title: Finland
+Link: https://www.tcs.com/careers/finland
+--------------------------------------------------
+Title: France
+Link: https://www.tcs.com/careers/france
+--------------------------------------------------
+Title: Germany
+Link: https://www.tcs.com/careers/germany
+--------------------------------------------------
+Title: Hungary
+Link: https://www.tcs.com/careers/hungary
+--------------------------------------------------
+Title: Ireland
+Link: https://www.tcs.com/careers/ireland
+--------------------------------------------------
+Title: Italy
+Link: https://www.tcs.com/careers/italy
+--------------------------------------------------
+Title: Luxembourg
+Link: https://www.tcs.com/careers/luxembourg
+--------------------------------------------------
+Title: Netherlands
+Link: https://www.tcs.com/careers/netherlands
+--------------------------------------------------
+Title: Norway
+Link: https://www.tcs.com/careers/norway
+--------------------------------------------------
+Title: Poland
+Link: https://www.tcs.com/careers/poland
+--------------------------------------------------
+Title: Portugal
+Link: https://www.tcs.com/careers/portugal
+--------------------------------------------------
+Title: Spain
+Link: https://www.tcs.com/careers/spain
+--------------------------------------------------
+Title: Sweden
+Link: https://www.tcs.com/careers/sweden
+--------------------------------------------------
+Title: Switzerland
+Link: https://www.tcs.com/careers/switzerland
+--------------------------------------------------
+Title: United Kingdom
+Link: https://www.tcs.com/careers/united-kingdom
+--------------------------------------------------
+Title: Middle East and Africa
+Link: https://www.tcs.com/careers
+--------------------------------------------------
+Title: Bahrain
+Link: https://www.tcs.com/careers/bahrain
+--------------------------------------------------
+Title: Israel
+Link: https://www.tcs.com/careers/israel
+--------------------------------------------------
+Title: Kuwait
+Link: https://www.tcs.com/careers/kuwait
+--------------------------------------------------
+Title: Qatar
+Link: https://www.tcs.com/careers/qatar
+--------------------------------------------------
+Title: Saudi Arabia
+Link: https://www.tcs.com/careers/saudi-arabia
+--------------------------------------------------
+Title: South Africa
+Link: https://www.tcs.com/careers/south-africa
+--------------------------------------------------
+Title: United Arab Emirates
+Link: https://www.tcs.com/careers/united-arab-emirates
+--------------------------------------------------
+Title: Overview
+Link: javascript:void(0);
+--------------------------------------------------
+Title: India
+Link: https://www.tcs.com/careers/india
+--------------------------------------------------
+Title: India
+Link: https://www.tcs.com/careers/india
+--------------------------------------------------
+Title: Americas
+Link: https://www.tcs.com/careers
+--------------------------------------------------
+Title: Argentina
+Link: https://www.tcs.com/careers/argentina
+--------------------------------------------------
+Title: Brazil
+Link: https://www.tcs.com/careers/brazil
+--------------------------------------------------
+Title: Canada
+Link: https://www.tcs.com/careers/canada
+--------------------------------------------------
+Title: Chile
+Link: https://www.tcs.com/careers/chile
+--------------------------------------------------
+Title: Colombia
+Link: https://www.tcs.com/careers/colombia
+--------------------------------------------------
+Title: Ecuador
+Link: https://www.tcs.com/careers/ecuador
+--------------------------------------------------
+Title: Mexico
+Link: https://www.tcs.com/careers/mexico
+--------------------------------------------------
+Title: Peru
+Link: https://www.tcs.com/careers/peru
+--------------------------------------------------
+Title: Uruguay
+Link: https://www.tcs.com/careers/uruguay
+--------------------------------------------------
+Title: USA
+Link: https://www.tcs.com/careers/united-states
+--------------------------------------------------
+Title: Asia Pacific
+Link: https://www.tcs.com/careers
+--------------------------------------------------
+Title: Australia
+Link: https://www.tcs.com/careers/australia
+--------------------------------------------------
+Title: Mainland China
+Link: https://www.tcs.com/careers/china
+--------------------------------------------------
+Title: Hong Kong SAR
+Link: https://www.tcs.com/careers/hongkong
+--------------------------------------------------
+Title: Indonesia
+Link: https://www.tcs.com/careers/indonesia
+--------------------------------------------------
+Title: Japan
+Link: https://www.tcs.com/careers/japan
+--------------------------------------------------
+Title: Malaysia
+Link: https://www.tcs.com/careers/malaysia
+--------------------------------------------------
+Title: New Zealand
+Link: https://www.tcs.com/careers/newzealand
+--------------------------------------------------
+Title: Philippines
+Link: https://www.tcs.com/careers/philippines
+--------------------------------------------------
+Title: Republic of Korea
+Link: https://www.tcs.com/careers/republic-of-korea
+--------------------------------------------------
+Title: Singapore
+Link: https://www.tcs.com/careers/singapore
+--------------------------------------------------
+Title: Chinese Taipei
+Link: https://www.tcs.com/careers/taiwan
+--------------------------------------------------
+Title: Thailand
+Link: https://www.tcs.com/careers/thailand
+--------------------------------------------------
+Title: Europe and UK
+Link: https://www.tcs.com/careers/trainee-program-graduates-europe
+--------------------------------------------------
+Title: Belgium
+Link: https://www.tcs.com/careers/belgium
+--------------------------------------------------
+Title: Denmark
+Link: https://www.tcs.com/careers/denmark
+--------------------------------------------------
+Title: Estonia
+Link: https://www.tcs.com/careers/estonia
+--------------------------------------------------
+Title: Finland
+Link: https://www.tcs.com/careers/finland
+--------------------------------------------------
+Title: France
+Link: https://www.tcs.com/careers/france
+--------------------------------------------------
+Title: Germany
+Link: https://www.tcs.com/careers/germany
+--------------------------------------------------
+Title: Hungary
+Link: https://www.tcs.com/careers/hungary
+--------------------------------------------------
+Title: Ireland
+Link: https://www.tcs.com/careers/ireland
+--------------------------------------------------
+Title: Italy
+Link: https://www.tcs.com/careers/italy
+--------------------------------------------------
+Title: Luxembourg
+Link: https://www.tcs.com/careers/luxembourg
+--------------------------------------------------
+Title: Netherlands
+Link: https://www.tcs.com/careers/netherlands
+--------------------------------------------------
+Title: Norway
+Link: https://www.tcs.com/careers/norway
+--------------------------------------------------
+Title: Poland
+Link: https://www.tcs.com/careers/poland
+--------------------------------------------------
+Title: Portugal
+Link: https://www.tcs.com/careers/portugal
+--------------------------------------------------
+Title: Spain
+Link: https://www.tcs.com/careers/spain
+--------------------------------------------------
+Title: Sweden
+Link: https://www.tcs.com/careers/sweden
+--------------------------------------------------
+Title: Switzerland
+Link: https://www.tcs.com/careers/switzerland
+--------------------------------------------------
+Title: United Kingdom
+Link: https://www.tcs.com/careers/united-kingdom
+--------------------------------------------------
+Title: Middle East and Africa
+Link: https://www.tcs.com/careers
+--------------------------------------------------
+Title: Bahrain
+Link: https://www.tcs.com/careers/bahrain
+--------------------------------------------------
+Title: Israel
+Link: https://www.tcs.com/careers/israel
+--------------------------------------------------
+Title: Kuwait
+Link: https://www.tcs.com/careers/kuwait
+--------------------------------------------------
+Title: Qatar
+Link: https://www.tcs.com/careers/qatar
+--------------------------------------------------
+Title: Saudi Arabia
+Link: https://www.tcs.com/careers/saudi-arabia
+--------------------------------------------------
+Title: South Africa
+Link: https://www.tcs.com/careers/south-africa
+--------------------------------------------------
+Title: United Arab Emirates
+Link: https://www.tcs.com/careers/united-arab-emirates
+--------------------------------------------------
+Title: OverviewPress tab for submenu items
+Link: #
+--------------------------------------------------
+Title: Discover more
+Link: https://www.tcs.com/who-we-are/newsroom
+--------------------------------------------------
+Title: Press releases
+Link: https://www.tcs.com/who-we-are/newsroom
+--------------------------------------------------
+Title: TCS Partners with The Cumberland Building Society to Transform its Core Banking Solution
+Link: https://www.tcs.com/who-we-are/newsroom/press-release/tcs-partners-with-Cumberland-building-society-transform-core-banking-solution
+--------------------------------------------------
+Title: TCS Partners with Air New Zealand to Drive AI-Led Transformation, Enhance Passenger Experience
+Link: https://www.tcs.com/who-we-are/newsroom/press-release/tcs-partners-air-new-zealand-drive-ai-transformation-enhance-passenger-experience
+--------------------------------------------------
+Title: TCS Extends Partnership with Coop Danmark to Enhance Operations & Customer Shopping Experience
+Link: https://www.tcs.com/who-we-are/newsroom/press-release/tcs-extends-partnership-coop-danmark-enhance-operations-customer-shopping-experience
+--------------------------------------------------
+Title: View all
+Link: https://www.tcs.com/who-we-are/newsroom
+--------------------------------------------------
+Title: News alerts
+Link: https://www.tcs.com/who-we-are/newsroom/news-alert
+--------------------------------------------------
+Title: TCS Wins NVIDIA Rising Star Partner of the Year Award at GTC 2025 for AI Innovation and Excellence
+Link: https://www.tcs.com/who-we-are/newsroom/news-alert/tcs-wins-nvidia-rising-star-partner-year-award-gtc-2025-ai-innovation-excellence
+--------------------------------------------------
+Title: TCS Launches the 2025 Team TCS Teachers Contest, Celebrating Educators Through the Power of Running
+Link: https://www.tcs.com/who-we-are/newsroom/news-alert/tcs-launches-2025-team-tcs-teachers-celebrating-educators-through-power-of-running
+--------------------------------------------------
+Title: TCS Partners with the Danish Academy of Technical Sciences to Combat Dengue Through Technology and Citizen Engagement
+Link: https://www.tcs.com/who-we-are/newsroom/news-alert/tcs-partners-with-danish-academy-technical-sciences-to-combat-dengue-technology-citizen-engagement
+--------------------------------------------------
+Title: View all
+Link: https://www.tcs.com/who-we-are/newsroom/news-alert
+--------------------------------------------------
+Title: Analyst recognition
+Link: https://www.tcs.com/who-we-are/newsroom/analyst-recognition
+--------------------------------------------------
+Title: TCS Positioned as a Leader in IDC MarketScape for Worldwide Life Science R&D ITO Services 2024
+Link: https://www.tcs.com/who-we-are/newsroom/analyst-reports/tcs-positioned-leader-idc-marketscape-worldwide-life-science-ito-services-2024
+--------------------------------------------------
+Title: TCS Named a Leader in IDC MarketScape: European SAP Modernization Services 2024 Vendor Assessment
+Link: https://www.tcs.com/who-we-are/newsroom/analyst-reports/tcs-leader-idc-marketscape-european-sap-modernization-services-vendor-assessment
+--------------------------------------------------
+Title: TCS Recognized as a Leader in Gartner Magic Quadrant for Worldwide Cloud ERP Services
+Link: https://www.tcs.com/who-we-are/newsroom/analyst-reports/tcs-recognized-as-leader-in-gartner-magic-quadrant-for-worldwide-cloud-erp-services
+--------------------------------------------------
+Title: View all
+Link: https://www.tcs.com/who-we-are/newsroom/analyst-recognition
+--------------------------------------------------
+Title: Events
+Link: https://www.tcs.com/who-we-are/events
+--------------------------------------------------
+Title: TCS is a gold sponsor at the Ellucian LIVE 2025
+Link: https://www.tcs.com/who-we-are/events/ellucian-live-event-2025
+--------------------------------------------------
+Title: TCS is a Platinum Sponsor at ServiceNow's Knowledge 2025
+Link: https://www.tcs.com/who-we-are/events/tcs-servicenow-knowledge-2025
+--------------------------------------------------
+Title: Veeva Commercial Summit: Discussing Innovation in Life Sciences
+Link: https://www.tcs.com/who-we-are/events/veeva-commercial-summit
+--------------------------------------------------
+Title: View all
+Link: https://www.tcs.com/who-we-are/events
+--------------------------------------------------
+Title: Media kit
+Link: https://www.tcs.com/who-we-are/newsroom/media-kit
+--------------------------------------------------
+Title: Overview
+Link: javascript:void(0);
+--------------------------------------------------
+Title: Press releases
+Link: https://www.tcs.com/who-we-are/newsroom
+--------------------------------------------------
+Title: News alerts
+Link: https://www.tcs.com/who-we-are/newsroom/news-alert
+--------------------------------------------------
+Title: Analyst recognition
+Link: https://www.tcs.com/who-we-are/newsroom/analyst-recognition
+--------------------------------------------------
+Title: Events
+Link: https://www.tcs.com/who-we-are/events
+--------------------------------------------------
+Title: Media kit
+Link: https://www.tcs.com/who-we-are/newsroom/media-kit
+--------------------------------------------------
+Title: OverviewPress tab for submenu items
+Link: #
+--------------------------------------------------
+Title: Discover more
+Link: https://www.tcs.com/investor-relations
+--------------------------------------------------
+Title: Management Commentary
+Link: https://www.tcs.com/investor-relations.html#management
+--------------------------------------------------
+Title: Latest Quarter Commentary
+Link: https://www.tcs.com/investor-relations/management-commentary/latest-quarter-commentary
+--------------------------------------------------
+Title: Annual Report Section
+Link: https://www.tcs.com/investor-relations/management-commentary/annual-report-sections
+--------------------------------------------------
+Title: Financials
+Link: https://www.tcs.com/investor-relations.html#quarterly
+--------------------------------------------------
+Title: Quarterly Earnings Reports
+Link: https://www.tcs.com/investor-relations/financial-statements
+--------------------------------------------------
+Title: Download TCS Data Sheet
+Link: /content/dam/tcs/pdf/discover-tcs/investor-relations/tcs-data-sheet/TCS-Data-Sheet-Q3FY25.xlsx
+--------------------------------------------------
+Title: Erstwhile CMC Financials
+Link: https://www.tcs.com/investor-relations/cmc-financials
+--------------------------------------------------
+Title: News and Events
+Link: https://www.tcs.com/investor-relations.html#news
+--------------------------------------------------
+Title: Press Releases
+Link: https://www.tcs.com/who-we-are/newsroom/investor-press-release
+--------------------------------------------------
+Title: Corporate Actions
+Link: https://www.tcs.com/investor-relations/view-all-corporate-actions
+--------------------------------------------------
+Title: Events
+Link: https://www.tcs.com/investor-relations/events
+--------------------------------------------------
+Title: Calendar
+Link: https://www.tcs.com/investor-relations/calendar
+--------------------------------------------------
+Title: ESG
+Link: https://www.tcs.com/investor-relations.html#esg
+--------------------------------------------------
+Title: Environment
+Link: https://www.tcs.com/investor-relations/esg/environment
+--------------------------------------------------
+Title: Social
+Link: https://www.tcs.com/investor-relations/esg/social
+--------------------------------------------------
+Title: Governance
+Link: https://www.tcs.com/investor-relations/corporate-governance
+--------------------------------------------------
+Title: Policies and Reports
+Link: https://www.tcs.com/investor-relations/corporate-sustainability-investor-relations
+--------------------------------------------------
+Title: Stakeholder Engagement and Identification of Material Issues
+Link: https://www.tcs.com/investor-relations/stakeholder-engagement-identification-material-issues
+--------------------------------------------------
+Title: Resources
+Link: https://www.tcs.com/investor-relations.html#resource
+--------------------------------------------------
+Title: Investor FAQs
+Link: https://www.tcs.com/investor-relations/investor-faqs
+--------------------------------------------------
+Title: eTDS Portal
+Link: https://iepfinvestorinfo.tcsapps.com/eTDS/
+--------------------------------------------------
+Title: Stock Information
+Link: https://www.tcs.com/investor-relations/stock-information
+--------------------------------------------------
+Title: Analyst Coverage
+Link: https://www.tcs.com/investor-relations/overlays/analyst-coverage
+--------------------------------------------------
+Title: Subsidiaries
+Link: https://www.tcs.com/investor-relations/subsidiaries
+--------------------------------------------------
+Title: Subscribe to Investor Updates
+Link: https://www.tcs.com/contact-us/whats-on-your-mind/ir-landing/ir-form
+--------------------------------------------------
+Title: Unclaimed Dividend Information
+Link: https://iepfinvestorinfo.tcsapps.com/#/home
+--------------------------------------------------
+Title: Overview
+Link: javascript:void(0);
+--------------------------------------------------
+Title: Management Commentary
+Link: https://www.tcs.com/investor-relations#management
+--------------------------------------------------
+Title: Latest Quarter Commentary
+Link: https://www.tcs.com/investor-relations/management-commentary/latest-quarter-commentary
+--------------------------------------------------
+Title: Annual Report Section
+Link: https://www.tcs.com/investor-relations/management-commentary/annual-report-sections
+--------------------------------------------------
+Title: Financials
+Link: https://www.tcs.com/investor-relations#quarterly
+--------------------------------------------------
+Title: Quarterly Earnings Reports
+Link: https://www.tcs.com/investor-relations/financial-statements
+--------------------------------------------------
+Title: Download TCS Data Sheet
+Link: /content/dam/tcs/pdf/discover-tcs/investor-relations/tcs-data-sheet/TCS-Data-Sheet-Q3FY25.xlsx
+--------------------------------------------------
+Title: Erstwhile CMC Financials
+Link: https://www.tcs.com/investor-relations/cmc-financials
+--------------------------------------------------
+Title: News and Events
+Link: https://www.tcs.com/investor-relations#news
+--------------------------------------------------
+Title: Press Releases
+Link: https://www.tcs.com/who-we-are/newsroom/investor-press-release
+--------------------------------------------------
+Title: Corporate Actions
+Link: https://www.tcs.com/investor-relations/view-all-corporate-actions
+--------------------------------------------------
+Title: Events
+Link: https://www.tcs.com/investor-relations/events
+--------------------------------------------------
+Title: Calendar
+Link: https://www.tcs.com/investor-relations/calendar
+--------------------------------------------------
+Title: ESG
+Link: https://www.tcs.com/investor-relations#esg
+--------------------------------------------------
+Title: Environment
+Link: https://www.tcs.com/investor-relations/esg/environment
+--------------------------------------------------
+Title: Social
+Link: https://www.tcs.com/investor-relations/esg/social
+--------------------------------------------------
+Title: Governance
+Link: https://www.tcs.com/investor-relations/corporate-governance
+--------------------------------------------------
+Title: Policies and Reports
+Link: https://www.tcs.com/investor-relations/corporate-sustainability-investor-relations
+--------------------------------------------------
+Title: Stakeholder Engagement and Identification of Material Issues
+Link: https://www.tcs.com/investor-relations/stakeholder-engagement-identification-material-issues
+--------------------------------------------------
+Title: Resources
+Link: https://www.tcs.com/investor-relations#resource
+--------------------------------------------------
+Title: Investor FAQs
+Link: https://www.tcs.com/investor-relations/investor-faqs
+--------------------------------------------------
+Title: eTDS Portal
+Link: https://iepfinvestorinfo.tcsapps.com/eTDS/
+--------------------------------------------------
+Title: Stock Information
+Link: https://www.tcs.com/investor-relations/stock-information
+--------------------------------------------------
+Title: Analyst Coverage
+Link: https://www.tcs.com/investor-relations/overlays/analyst-coverage
+--------------------------------------------------
+Title: Subsidiaries
+Link: https://www.tcs.com/investor-relations/subsidiaries
+--------------------------------------------------
+Title: Subscribe to Investor Updates
+Link: https://www.tcs.com/contact-us/whats-on-your-mind/ir-landing/ir-form
+--------------------------------------------------
+Title: Unclaimed Dividend Information
+Link: https://iepfinvestorinfo.tcsapps.com/#/home
+--------------------------------------------------
+Title: Contact us
+Link: https://www.tcs.com/contact-us/whats-on-your-mind
+--------------------------------------------------
+Title: TCS Worldwide
+Link: https://www.tcs.com/who-we-are/worldwide
+--------------------------------------------------
+Title: tata.com logo Opens in new tab
+Link: https://www.tata.com/
+--------------------------------------------------
+Title: Know more&nbsp about &nbsp TCS gets the Rising Star Award at GTC 2025
+Link: https://www.tcs.com/who-we-are/newsroom/news-alert/tcs-wins-nvidia-rising-star-partner-year-award-gtc-2025-ai-innovation-excellence
+--------------------------------------------------
+Title: Learn more&nbsp about &nbsp TCS, Air New Zealand to enhance travel with AI
+Link: https://www.tcs.com/who-we-are/newsroom/press-release/tcs-partners-air-new-zealand-drive-ai-transformation-enhance-passenger-experience
+--------------------------------------------------
+Title: Know more&nbsp about &nbsp TCS among FORTUNE® World's Most Admired Companies
+Link: https://www.tcs.com/who-we-are/newsroom/press-release/tcs-named-among-worlds-most-admired-companies-fortune-2025
+--------------------------------------------------
+Title: Read more&nbsp about &nbsp TCS becomes second IT brand worth over $20 billion
+Link: https://www.tcs.com/who-we-are/newsroom/press-release/tcs-achieves-major-milestone-2nd-global-it-services-brand-cross-20bn-brand-value
+--------------------------------------------------
+Title: Know more&nbsp about &nbsp TCS Future-Ready eMobility Study 2025
+Link: https://www.tcs.com/what-we-do/industries/manufacturing/tcs-future-ready-emobility-study
+--------------------------------------------------
+Title: Read the study&nbsp about &nbsp The TCS AI for Business Study
+Link: https://www.tcs.com/insights/global-studies/ai-business-study-key-findings-report
+--------------------------------------------------
+Title: MLC Life Insurance Aligns Growth with Digital TransformationRead more
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-bancs/case-study/mlc-life-insurance-growth-digital-transformation
+--------------------------------------------------
+Title: Air France-KLM and TCS: Celebrating 30 Years of Successful PartnershipRead more
+Link: https://www.tcs.com/what-we-do/industries/travel-and-logistics/video/air-france-klm-tcs-celebrating-30-years-partnership
+--------------------------------------------------
+Title: Wm Morrisons Supermarkets Ltd. Transforms Ops with Real-time InsightsRead more
+Link: https://www.tcs.com/what-we-do/industries/retail/case-study/wm-morissons-supermarkets-transform-operations
+--------------------------------------------------
+Title: Corporate Governance Assessments Automation for a Smart NationRead more
+Link: https://www.tcs.com/who-we-are/worldwide/apac/corporate-governance-assessments-automation
+--------------------------------------------------
+Title: Enhancing Alinta Energy’s Digital Core for Better Customer ExperiencesRead more
+Link: https://www.tcs.com/who-we-are/worldwide/anz/enhancing-alinta-energy-digital-core-better-experiences
+--------------------------------------------------
+Title: TCS-Lufthansa Group Partnership: A Decade of Customer CentricityRead more
+Link: https://www.tcs.com/what-we-do/industries/travel-and-logistics/video/tcs-lufthansa-group-10-years-partnership
+--------------------------------------------------
+Title: Banking
+Link: https://www.tcs.com/what-we-do/industries/banking
+--------------------------------------------------
+Title: Capital Markets
+Link: https://www.tcs.com/what-we-do/industries/capital-markets
+--------------------------------------------------
+Title: Communications, Media, and Information Services
+Link: https://www.tcs.com/what-we-do/industries/communications-media-information-services
+--------------------------------------------------
+Title: Consumer Goods and Distribution
+Link: https://www.tcs.com/what-we-do/industries/consumer-goods-distribution
+--------------------------------------------------
+Title: Education
+Link: https://www.tcs.com/what-we-do/industries/education
+--------------------------------------------------
+Title: Energy, Resources, and Utilities
+Link: https://www.tcs.com/what-we-do/industries/energy-resources-utilities
+--------------------------------------------------
+Title: Healthcare
+Link: https://www.tcs.com/what-we-do/industries/healthcare
+--------------------------------------------------
+Title: High Tech
+Link: https://www.tcs.com/what-we-do/industries/high-tech
+--------------------------------------------------
+Title: Insurance
+Link: https://www.tcs.com/what-we-do/industries/insurance
+--------------------------------------------------
+Title: Life Sciences
+Link: https://www.tcs.com/what-we-do/industries/life-sciences
+--------------------------------------------------
+Title: Manufacturing
+Link: https://www.tcs.com/what-we-do/industries/manufacturing
+--------------------------------------------------
+Title: Public Services
+Link: https://www.tcs.com/what-we-do/industries/public-services
+--------------------------------------------------
+Title: Retail
+Link: https://www.tcs.com/what-we-do/industries/retail
+--------------------------------------------------
+Title: Travel and Logistics
+Link: https://www.tcs.com/what-we-do/industries/travel-and-logistics
+--------------------------------------------------
+Title: Artificial Intelligence
+Link: https://www.tcs.com/what-we-do/services/artificial-intelligence
+--------------------------------------------------
+Title: Cloud
+Link: https://www.tcs.com/what-we-do/services/cloud
+--------------------------------------------------
+Title: Cognitive Business Operations
+Link: https://www.tcs.com/what-we-do/services/cognitive-business-operations
+--------------------------------------------------
+Title: Consulting
+Link: https://www.tcs.com/what-we-do/services/consulting
+--------------------------------------------------
+Title: Cybersecurity
+Link: https://www.tcs.com/what-we-do/services/cybersecurity
+--------------------------------------------------
+Title: Data & Analytics
+Link: https://www.tcs.com/what-we-do/services/data-and-analytics
+--------------------------------------------------
+Title: Enterprise Solutions
+Link: https://www.tcs.com/what-we-do/services/enterprise-solutions
+--------------------------------------------------
+Title: IoT Digital Engineering
+Link: https://www.tcs.com/what-we-do/services/iot-digital-engineering
+--------------------------------------------------
+Title: Network Solutions and Service
+Link: https://www.tcs.com/what-we-do/services/network-solutions-and-services
+--------------------------------------------------
+Title: Sustainability Services
+Link: https://www.tcs.com/what-we-do/services/sustainability-services
+--------------------------------------------------
+Title: TCS Interactive
+Link: https://www.tcs.com/what-we-do/services/tcs-interactive
+--------------------------------------------------
+Title: TCS OMNISTORE™The Foundation for Future Commerce. Unified. Ubiquitous. Intelligent.
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-omnistore
+--------------------------------------------------
+Title: TCS ADD™Modern and open technology platforms for clinical research and drug development
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-add
+--------------------------------------------------
+Title: TCS BaNCS™Growth and Transformation in Insurance Enabled by Intelligent, Digital Solutions
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-bancs
+--------------------------------------------------
+Title: TCS BFSI PlatformsPower the Banking, Financial Services, Insurance Customer Journey.
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-bfsi-platforms
+--------------------------------------------------
+Title: TCS Chroma™Harness talent, collaborative work culture, invisible HR.
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-chroma
+--------------------------------------------------
+Title: TCS Customer Intelligence™Deliver personalized experiences to build loyalty and drive growth.
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-customer-intelligence-insights
+--------------------------------------------------
+Title: TCS ERP on CloudRich experience, future ready, agile and flexible, always connected.
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-erp-on-cloud
+--------------------------------------------------
+Title: TCS HOBS™Innovate, create, and industry-leading digital experiences.
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-hobs
+--------------------------------------------------
+Title: ignio™Autonomous Enterprise for improved resilience, assurance, and superior cx.
+Link: https://www.tcs.com/what-we-do/products-platforms/ignio
+--------------------------------------------------
+Title: TCS Intelligent Urban Exchange™Deliver world-class sustainable citizen experiences, safe workplaces.
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-intelligent-urban-exchange
+--------------------------------------------------
+Title: TCS Optumera™AI-Powered Strategic Retail Optimization, Merchandising. Pricing. Supply Chain.
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-optumera
+--------------------------------------------------
+Title: TCS Tap™Agile sourcing, responsible buying, leaner a/c payable and superior experience.
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-tap
+--------------------------------------------------
+Title: TCS Mastercraft™Cognitive solutions for application development, modernization and delivery.
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-mastercraft
+--------------------------------------------------
+Title: TCS’ QuartzEnable More Secure Transactions across Crypto and Digital Assets.
+Link: https://www.tcs.com/what-we-do/products-platforms/quartz
+--------------------------------------------------
+Title: Jile™Build something awesome today that your customers will love tomorrow.
+Link: https://www.jile.io/
+--------------------------------------------------
+Title: TCS iONUnique, phygital solutions to transform learning programs and empower learners.
+Link: https://www.tcsion.com/home
+--------------------------------------------------
+Title: TCS TwinX™An enterprise digital twin platform.
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-twinx
+--------------------------------------------------
+Title: View all
+Link: https://www.tcs.com/who-we-are/newsroom
+--------------------------------------------------
+Title: NewsroomStay up-to-date with the latest TCS newsRead More
+Link: https://www.tcs.com/who-we-are/newsroom
+--------------------------------------------------
+Title: Press ReleaseNuuday and TCS partner for cloud transformationRead More
+Link: https://www.tcs.com/who-we-are/newsroom/press-release/nuuday-signs-major-cloud-transformation-deal-with-tcs
+--------------------------------------------------
+Title: Analyst RelationsAnalysts recognize TCS as a cross-industry leaderRead More
+Link: https://www.tcs.com/who-we-are/newsroom/analyst-recognition
+--------------------------------------------------
+Title: Explore TCS careers
+Link: https://www.tcs.com/careers
+--------------------------------------------------
+Title: FacebookFACEBOOKTCSOpen in New Tab
+Link: https://www.facebook.com/TataConsultancyServices
+--------------------------------------------------
+Title: TwitterXTCSOpen in New Tab
+Link: https://twitter.com/TCS
+--------------------------------------------------
+Title: YoutubeYOUTUBEtcsglobalOpen in New Tab
+Link: https://www.youtube.com/user/TCSGlobal
+--------------------------------------------------
+Title: InstagramINSTAGRAMtcsglobalOpen in New Tab
+Link: https://www.instagram.com/tcsglobal/
+--------------------------------------------------
+Title: linkedinLINKEDINTCSOpen in New Tab
+Link: https://www.linkedin.com/company/tata-consultancy-services/
+--------------------------------------------------
+Title: Contact
+Link: javascript:void(0);
+--------------------------------------------------
+Title: Request for Services
+Link: https://www.tcs.com/contact-us/whats-on-your-mind/global-contact-us
+--------------------------------------------------
+Title: Investor information
+Link: https://www.tcs.com/investor-relations/ir-contact-us
+--------------------------------------------------
+Title: Media contacts
+Link: https://www.tcs.com/contact-us/whats-on-your-mind/media-form
+--------------------------------------------------
+Title: Analyst relations
+Link: https://www.tcs.com/contact-us/whats-on-your-mind/ar-landing
+--------------------------------------------------
+Title: CSR
+Link: https://www.tcs.com/contact-us/whats-on-your-mind/csr
+--------------------------------------------------
+Title: Partnership
+Link: https://www.tcs.com/contact-us/whats-on-your-mind/partnership-form
+--------------------------------------------------
+Title: Website feedback
+Link: https://www.tcs.com/contact-us/whats-on-your-mind/website-feedback-form
+--------------------------------------------------
+Title: Industries
+Link: https://www.tcs.com/what-we-do#industries
+--------------------------------------------------
+Title: Banking
+Link: https://www.tcs.com/what-we-do/industries/banking
+--------------------------------------------------
+Title: Capital Markets
+Link: https://www.tcs.com/what-we-do/industries/capital-markets
+--------------------------------------------------
+Title: Consumer Packaged Goods and Distribution
+Link: https://www.tcs.com/what-we-do/industries/consumer-goods-distribution
+--------------------------------------------------
+Title: Communications, Media, and Information Services
+Link: https://www.tcs.com/what-we-do/industries/communications-media-information-services
+--------------------------------------------------
+Title: Education
+Link: https://www.tcs.com/what-we-do/industries/education
+--------------------------------------------------
+Title: Energy, Resources, and Utilities
+Link: https://www.tcs.com/what-we-do/industries/energy-resources-utilities
+--------------------------------------------------
+Title: Healthcare
+Link: https://www.tcs.com/what-we-do/industries/healthcare
+--------------------------------------------------
+Title: High Tech
+Link: https://www.tcs.com/what-we-do/industries/high-tech
+--------------------------------------------------
+Title: Insurance
+Link: https://www.tcs.com/what-we-do/industries/insurance
+--------------------------------------------------
+Title: Life Sciences
+Link: https://www.tcs.com/what-we-do/industries/life-sciences
+--------------------------------------------------
+Title: Manufacturing
+Link: https://www.tcs.com/what-we-do/industries/manufacturing
+--------------------------------------------------
+Title: Public Services
+Link: https://www.tcs.com/what-we-do/industries/public-services
+--------------------------------------------------
+Title: Retail
+Link: https://www.tcs.com/what-we-do/industries/retail
+--------------------------------------------------
+Title: Travel and Logistics
+Link: https://www.tcs.com/what-we-do/industries/travel-and-logistics
+--------------------------------------------------
+Title: Services
+Link: https://www.tcs.com/content/tcs/global/en/what-we-do.html#services
+--------------------------------------------------
+Title: Artificial Intelligence
+Link: https://www.tcs.com/what-we-do/services/artificial-intelligence
+--------------------------------------------------
+Title: Cloud
+Link: https://www.tcs.com/what-we-do/services/cloud
+--------------------------------------------------
+Title: Cognitive Business Operations
+Link: https://www.tcs.com/what-we-do/services/cognitive-business-operations
+--------------------------------------------------
+Title: Consulting
+Link: https://www.tcs.com/what-we-do/services/consulting
+--------------------------------------------------
+Title: Cybersecurity
+Link: https://www.tcs.com/what-we-do/services/cybersecurity
+--------------------------------------------------
+Title: Data and Analytics
+Link: https://www.tcs.com/what-we-do/services/data-and-analytics
+--------------------------------------------------
+Title: Enterprise Solutions
+Link: https://www.tcs.com/what-we-do/services/enterprise-solutions
+--------------------------------------------------
+Title: IoT and Digital Engineering
+Link: https://www.tcs.com/what-we-do/services/iot-digital-engineering
+--------------------------------------------------
+Title: Sustainability Services
+Link: https://www.tcs.com/what-we-do/services/sustainability-services
+--------------------------------------------------
+Title: Network Solutions and Services
+Link: https://www.tcs.com/what-we-do/services/network-solutions-and-services
+--------------------------------------------------
+Title: TCS Interactive
+Link: https://www.tcs.com/what-we-do/services/tcs-interactive
+--------------------------------------------------
+Title: TCS and AWS Cloud
+Link: https://www.tcs.com/what-we-do/services/cloud/aws
+--------------------------------------------------
+Title: TCS Enterprise Cloud
+Link: https://www.tcs.com/what-we-do/services/cloud/enterprise
+--------------------------------------------------
+Title: TCS and Google Cloud
+Link: https://www.tcs.com/what-we-do/services/cloud/google
+--------------------------------------------------
+Title: TCS and Microsoft Cloud
+Link: https://www.tcs.com/what-we-do/services/cloud/microsoft
+--------------------------------------------------
+Title: Products and Platforms
+Link: https://www.tcs.com/what-we-do#products
+--------------------------------------------------
+Title: TCS ADD™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-add
+--------------------------------------------------
+Title: TCS BaNCS™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-bancs
+--------------------------------------------------
+Title: TCS BFSI Platforms
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-bfsi-platforms
+--------------------------------------------------
+Title: TCS CHROMA™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-chroma
+--------------------------------------------------
+Title: TCS Customer Intelligence & Insights™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-customer-intelligence-insights
+--------------------------------------------------
+Title: TCS ERP on Cloud
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-erp-on-cloud
+--------------------------------------------------
+Title: ignio™
+Link: https://digitate.com/
+--------------------------------------------------
+Title: TCS HOBS™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-hobs
+--------------------------------------------------
+Title: TCS Intelligent Urban Exchange™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-intelligent-urban-exchange
+--------------------------------------------------
+Title: TCS OmniStore™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-omnistore
+--------------------------------------------------
+Title: TCS Optumera™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-optumera
+--------------------------------------------------
+Title: TCS TAP™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-tap
+--------------------------------------------------
+Title: Quartz™ – The Smart Ledgers™
+Link: https://www.tcs.com/what-we-do/products-platforms/quartz
+--------------------------------------------------
+Title: TCS TwinX™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-twinx
+--------------------------------------------------
+Title: TCS MasterCraft™
+Link: https://www.tcs.com/what-we-do/products-platforms/tcs-mastercraft
+--------------------------------------------------
+Title: Jile™
+Link: https://www.jile.io/
+--------------------------------------------------
+Title: TCS iON™
+Link: https://www.tcsion.com/dotcom/TCSSMB/
+--------------------------------------------------
+Title: Insights
+Link: https://www.tcs.com/insights
+--------------------------------------------------
+Title: Customer Stories
+Link: https://www.tcs.com/insights/customer-stories
+--------------------------------------------------
+Title: Cloud
+Link: https://www.tcs.com/insights/topics/cloud-topic
+--------------------------------------------------
+Title: Blockchain
+Link: https://www.tcs.com/insights/topics/blockchain-topic
+--------------------------------------------------
+Title: IoT
+Link: https://www.tcs.com/insights/topics/internet-of-things-topic
+--------------------------------------------------
+Title: Metaverse
+Link: https://www.tcs.com/insights/topics/metaverse-topic
+--------------------------------------------------
+Title: Future of Work
+Link: https://www.tcs.com/insights/topics/future-of-work-topic
+--------------------------------------------------
+Title: Health and Wellness
+Link: https://www.tcs.com/insights/topics/health-and-wellness-topic
+--------------------------------------------------
+Title: Sustainability
+Link: https://www.tcs.com/insights/topics/sustainability-topic
+--------------------------------------------------
+Title: TCS.AI
+Link: https://www.tcs.com/insights/topics/ai
+--------------------------------------------------
+Title: Cybersecurity
+Link: https://www.tcs.com/insights/topics/cybersecurity-topic
+--------------------------------------------------
+Title: Perspectives
+Link: https://www.tcs.com/insights/perspectives
+--------------------------------------------------
+Title: More information
+Link: https://www.tcs.com/who-we-are
+--------------------------------------------------
+Title: Careers
+Link: https://www.tcs.com/careers
+--------------------------------------------------
+Title: Corporate Social Responsibility
+Link: https://www.tcs.com/who-we-are/corporate-social-responsibility
+--------------------------------------------------
+Title: Diversity, Equity, and Inclusion
+Link: https://www.tcs.com/who-we-are/diversity-equity-inclusion
+--------------------------------------------------
+Title: Investor Relations
+Link: https://www.tcs.com/investor-relations
+--------------------------------------------------
+Title: Sports Sponsorships
+Link: https://www.tcs.com/who-we-are/sports-sponsorships
+--------------------------------------------------
+Title: TCS Pace™
+Link: https://www.tcs.com/what-we-do/pace-innovation
+--------------------------------------------------
+Title: TCS Research
+Link: https://www.tcs.com/what-we-do/research
+--------------------------------------------------
+Title: The TCS Way
+Link: https://www.tcs.com/who-we-are/tcs-way
+--------------------------------------------------
+Title: Who we are
+Link: https://www.tcs.com/who-we-are
+--------------------------------------------------
+Title: Privacy Notice
+Link: https://www.tcs.com/who-we-are/legal/tcs-privacy-notice
+--------------------------------------------------
+Title: Cookie Policy
+Link: https://www.tcs.com/who-we-are/legal/tcs-cookie-policy
+--------------------------------------------------
+Title: Accessibility Declaration
+Link: https://www.tcs.com/tcs-accessibility-declaration
+--------------------------------------------------
+Title: Disclaimer
+Link: https://www.tcs.com/who-we-are/legal/legal-disclaimer
+--------------------------------------------------
+Title: Security Policy
+Link: https://www.tcs.com/who-we-are/legal/security-policy
+--------------------------------------------------
+Title: California Notice at Collection
+Link: https://www.tcs.com/who-we-are/legal/tcs-privacy-notice/tcs-privacy-policy-usa#CPRA-2023
+--------------------------------------------------
+Title: Customize Cookies
+Link: javascript:void(0);
+--------------------------------------------------
+Title: More
+Link: javascript:void(0);
+--------------------------------------------------
+Title: Open in New Tab Facebook
+Link: https://www.facebook.com/TataConsultancyServices
+--------------------------------------------------
+Title: Open in New Tab Youtube
+Link: https://www.youtube.com/user/TCSGlobal
+--------------------------------------------------
+Title: Open in New Tab Twitter-X
+Link: https://twitter.com/TCS
+--------------------------------------------------
+Title: Open in New Tab Instagram
+Link: https://www.instagram.com/tcsglobal/
+--------------------------------------------------
+Title: Open in New Tab linkedin
+Link: https://www.linkedin.com/company/tata-consultancy-services/
+--------------------------------------------------
